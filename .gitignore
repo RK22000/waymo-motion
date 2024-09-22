@@ -1,0 +1,3 @@
+**/*.tfrecord
+.ipynb_checkpoints/
+.venv/
